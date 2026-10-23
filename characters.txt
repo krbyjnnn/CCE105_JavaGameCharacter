@@ -1,0 +1,2 @@
+Warrior	Warrior Test	Slash	Stab	Shield Bash	STUN
+Mage	Mage Test	Fireball	Breeze	Silence	MUTE
